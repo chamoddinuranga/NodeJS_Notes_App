@@ -112,4 +112,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Replace `yourusername` with your actual GitHub username if you haven't already.
