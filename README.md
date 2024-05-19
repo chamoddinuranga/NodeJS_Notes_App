@@ -32,8 +32,7 @@ A simple and elegant note-taking application built with Bootstrap, EJS, Node.js,
 
 1. **Clone the repository**:
     ```bash
-   [ git clone https://github.com/chamoddinuranga/note-taking-app.git](https://github.com/chamoddinuranga/NodeJS_Notes_App.git)
-    cd note-taking-app
+   git clone https://github.com/chamoddinuranga/NodeJS_Notes_App.git
     ```
 
 2. **Install dependencies**:
